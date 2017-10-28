@@ -21,7 +21,7 @@ public abstract class BaseTest implements Autoconst{
 	@AfterMethod
 	public void closeAppln()
 	{
-		//driver.quit();
+		driver.quit();
 	}
 	
 }
