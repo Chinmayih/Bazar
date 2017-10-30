@@ -7,5 +7,6 @@ public interface Autoconst {
 	String CHROME_KEY="webdriver.chrome.driver";
 	String CHROME_VALUE="webdriver.chrome.driver";
 	String PATH="./Excel/data.xlsx";
+
 		
 }
